@@ -34,3 +34,4 @@ mybatis-generator.xml
 gradlew
 gradlew.bat
 folder.ini
+target
